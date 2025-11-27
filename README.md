@@ -9,7 +9,7 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r-salimi&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&ring=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Reyhane's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-salimi&theme=dark&ring=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
