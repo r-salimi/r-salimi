@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-<h5>-------------------------</h5>
+<h5>════════════════════════════════════</h5>
 
 <h3>My GitHub contributions summary</h3>
 
